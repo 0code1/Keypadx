@@ -34,5 +34,5 @@ you can always change it to other port or use the array to have other output res
 
 # Display on tera
 
-![tera result](tera.png)
+![tera result](tera.PNG)
 
