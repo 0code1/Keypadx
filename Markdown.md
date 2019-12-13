@@ -7,14 +7,13 @@ For a verification of our program we used Tera as means to see the output of our
 
 ![diagram](Diagram.PNG)
 
-
-# Starting point :
-
 # flowshart
 
 ![main flow](maindiagram.png) 
 
 ![column flow](Columnflow.png)  ![read flow](Readrowflow.png) 
+
+# Starting point :
 
 - WE have to set 4 Port to Input and 4 to Output with the help of an Init() function 
 - Creating a ColumnScan() function to read the Output in a sequence interval
