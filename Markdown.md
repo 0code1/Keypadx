@@ -32,5 +32,7 @@ you can always change it to other port or use the array to have other output res
 
 ![logic billede](Udklip.PNG)
 
+# Display on tera
 
+![tera result](tera.png)
 
