@@ -12,7 +12,7 @@ For a verification of our program we used Tera as means to see the output of our
 
 # flowshart
 
-![Flowshart](maindiagram.png)
+![main flow](maindiagram.png) ![column flow](Columnflow.png)  ![read flow](Readrowflow.png) 
 
 
 
