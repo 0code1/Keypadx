@@ -9,7 +9,10 @@ For a verification of our program we used Tera as means to see the output of our
 
 # flowshart
 
-![main flow](maindiagram.png) 
+<p align="center">
+  <img width="460" height="300" src="maindiagram.png">
+</p>
+
 
 ![column flow](Columnflow.png)  ![read flow](Readrowflow.png) 
 
