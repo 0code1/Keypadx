@@ -30,9 +30,13 @@ you can always change it to other port or use the array to have other output res
 
 # resultate af Logic analyzer
 
+To check if the ColumnScan() function is working correctly we used a  logic analyzer to see if we have the  right output
+
 ![logic billede](Udklip.PNG)
 
 # Display on tera
+
+If the projekt is working correctly we will be able to see the result on the Tera program as follow when  we click the botton
 
 ![tera result](tera.PNG)
 
