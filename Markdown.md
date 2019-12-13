@@ -19,4 +19,4 @@ startet punkt :
 
 # flowshart
 
-![Flowshart](maindiagram.PNG)
+![Flowshart](maindiagram.png)
