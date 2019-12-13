@@ -7,6 +7,9 @@ For a verification of our program we used Tera as means to see the output of our
 
 ![diagram](Diagram.PNG)
 
+here are the Port and array logic that i will be using for my program.
+you can always change it to other port or use the array to have other output result.
+
 # flowshart
 
 <p align="center">
