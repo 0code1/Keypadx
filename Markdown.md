@@ -14,7 +14,7 @@ For a verification of our program we used Tera as means to see the output of our
 </p>
 
 
-![column flow](Columnflow.png)  ![read flow](Readrowflow.png) 
+![column flow](Columnflow.png)   <img align="right"  src="Readrowflow.png">
 
 # Starting point :
 
