@@ -10,7 +10,7 @@ For a verification of our program we used Tera as means to see the output of our
 # flowshart
 
 <p align="center">
-  <img width="460" height="300" src="maindiagram.png">
+  <img src="maindiagram.png">
 </p>
 
 
